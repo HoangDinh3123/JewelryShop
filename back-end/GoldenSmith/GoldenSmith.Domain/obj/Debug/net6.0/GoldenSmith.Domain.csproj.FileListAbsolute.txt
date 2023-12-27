@@ -1,0 +1,11 @@
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\bin\Debug\net6.0\GoldenSmith.Domain.deps.json
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\bin\Debug\net6.0\GoldenSmith.Domain.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\bin\Debug\net6.0\GoldenSmith.Domain.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.AssemblyInfoInputs.cache
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.AssemblyInfo.cs
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.csproj.CoreCompileInputs.cache
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\refint\GoldenSmith.Domain.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\GoldenSmith.Domain.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Domain\obj\Debug\net6.0\ref\GoldenSmith.Domain.dll

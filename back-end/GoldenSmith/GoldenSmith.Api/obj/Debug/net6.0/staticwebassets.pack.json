@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\1\\pexels-git-stephen-gitau-1670723.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\1\\pexels-git-stephen-gitau-1670723.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\1\\pexels-jess-bailey-designs-735276.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\1\\pexels-jess-bailey-designs-735276.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\1\\pexels-marta-branco-1395306.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\1\\pexels-marta-branco-1395306.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\2\\pexels-dids-1302307.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\2\\pexels-dids-1302307.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\2\\pexels-lalesh-aldarwish-168927.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\2\\pexels-lalesh-aldarwish-168927.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\2\\pexels-photomix-company-94843.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\2\\pexels-photomix-company-94843.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\3\\pexels-ashithosh-u-1413420.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\3\\pexels-ashithosh-u-1413420.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\3\\pexels-lalesh-aldarwish-168927.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\3\\pexels-lalesh-aldarwish-168927.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\3\\pexels-pixabay-266621.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\3\\pexels-pixabay-266621.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\3\\pexels-say-straight-2735970.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\3\\pexels-say-straight-2735970.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\4\\pexels-ashithosh-u-1413420.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\4\\pexels-ashithosh-u-1413420.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\4\\pexels-dids-1302307.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\4\\pexels-dids-1302307.jpg"
+    },
+    {
+      "Id": "D:\\Code\\LapTrinhWeb\\GoldenSmith\\SourceCode\\back-end\\GoldenSmith\\GoldenSmith.Api\\wwwroot\\Jewelry\\4\\pexels-photomix-company-94843.jpg",
+      "PackagePath": "staticwebassets\\Jewelry\\4\\pexels-photomix-company-94843.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GoldenSmith.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GoldenSmith.Api.props",
+      "PackagePath": "build\\GoldenSmith.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GoldenSmith.Api.props",
+      "PackagePath": "buildMultiTargeting\\GoldenSmith.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GoldenSmith.Api.props",
+      "PackagePath": "buildTransitive\\GoldenSmith.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

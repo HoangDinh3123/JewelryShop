@@ -1,0 +1,17 @@
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Application.deps.json
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Application.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Application.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Domain.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Infrastructure.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Domain.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\bin\Debug\net6.0\GoldenSmith.Infrastructure.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.csproj.AssemblyReference.cache
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.AssemblyInfoInputs.cache
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.AssemblyInfo.cs
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.csproj.CoreCompileInputs.cache
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.csproj.CopyComplete
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\refint\GoldenSmith.Application.dll
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\GoldenSmith.Application.pdb
+D:\Code\LapTrinhWeb\GoldenSmith\SourceCode\back-end\GoldenSmith\GoldenSmith.Application\obj\Debug\net6.0\ref\GoldenSmith.Application.dll
